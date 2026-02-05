@@ -1,5 +1,5 @@
 [build]
-base = "valentine-main/valentine's-for-riah (2)"
+base = "valentine's-for-riah (2)"
 command = "npm install && npm run build"
 publish = "dist"
 
