@@ -1,7 +1,7 @@
 [build]
-base = "valentine's-for-riah (2)"
-command = "npm install && npm run build"
-publish = "dist"
+base = "valentine-main"
+command = "npm --prefix \"valentine's-for-riah (2)\" install && npm --prefix \"valentine's-for-riah (2)\" run build"
+publish = "valentine's-for-riah (2)/dist"
 
 [[redirects]]
 from = "/*"
